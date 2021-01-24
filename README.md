@@ -8,3 +8,7 @@ No desafio de consulta ao banco de dados os resultados das buscas são:
 - Para a consulta do professor e suas horas trabalhadas é retornada uma tabela com duas colunas, sendo elas uma com o nome do preofessor e outra com o número totais de horas trabalhadas.
 
 - Já a consulta para a lista de salas não consegui chegar a um resultado satisfatório ainda.
+
+# Dificuldades
+
+Para o segundo desafio encontrei bastante dificuldade com as operações aritméticas necessárias para o desenvolvimento da consulta por horários disponíveis.
